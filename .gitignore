@@ -1,0 +1,7 @@
+#ºöÂÔgitignoreÎÄ¼ş
+temp/*
+*.log
+target/*
+.settings/*
+*.iml
+.idea/*
